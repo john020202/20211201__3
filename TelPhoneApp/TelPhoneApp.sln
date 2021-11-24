@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelPhoneApp", "TelPhoneApp\TelPhoneApp.csproj", "{183E42EC-2AC5-4CC2-B260-DB31E9FB651D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{183E42EC-2AC5-4CC2-B260-DB31E9FB651D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183E42EC-2AC5-4CC2-B260-DB31E9FB651D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183E42EC-2AC5-4CC2-B260-DB31E9FB651D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183E42EC-2AC5-4CC2-B260-DB31E9FB651D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF3E4CC-7059-4AE1-8C25-FEC1B578CEFD}
+	EndGlobalSection
+EndGlobal
